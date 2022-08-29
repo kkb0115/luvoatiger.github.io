@@ -1,4 +1,11 @@
-# 논문 리뷰 (2) : Bayesian Time Series Forecasting with Change Point and Anomaly Detection - code implementation
+---
+layout: post
+title: 논문 리뷰 (2) : Bayesian Time Series Forecasting with Change Point and Anomaly Detection - 
+date: 2022-08-13
+excerpt: "2. code implementation.ipynb"
+tags: [Bayesian]
+comment: true
+---
 
 ## 개요
 
