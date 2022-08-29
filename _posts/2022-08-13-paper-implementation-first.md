@@ -1,5 +1,11 @@
-# 논문 리뷰 (2) : Bayesian Time Series Forecasting with Change Point and Anomaly Detection - code implementation
-
+---
+layout: post
+title: 논문 리뷰 (2) : Bayesian Time Series Forecasting with Change Point and Anomaly Detection - code implementation
+date: 2022-08-13
+excerpt: "2. code implementation.ipynb"
+tags: [Bayesian]
+comment: true
+---
 ## 개요
 
  [논문](https://openreview.net/pdf?id=rJLTTe-0W)에서는 이상치 탐지 및 변경점 탐지를 수행하면서 시계열을 예측하는 베이지안 상태 공간 모형을 제안했다. 알고리즘은 초기화, 추론 그리고 예측 세 단계로 구성된다. 논문에서는 알고리즘을 시뮬레이션 된 데이터에 대해서 먼저 적용한 결과를 보여주고 실 데이터에 적용한 결과를 보여준다. 단, 관련된 코드가 공개되어 있지 않아서 이해한 부분까지 구현한 코드를 게시한다. 현재 시뮬레이션 단계에서 이상치 및 변경점을 탐지한 부분까지 구현했다.
